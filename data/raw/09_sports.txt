@@ -1,0 +1,15 @@
+# Sports Scholarship
+
+Document status: SIMULATED/TEMPLATE — NOT AN OFFICIAL SCHOLARSHIP POLICY
+
+Purpose:
+This simulated document represents a sports scholarship category. Eligibility and benefits must be verified from the authorized office.
+
+Source placeholder:
+Official scholarship office / authorized scholarship announcement
+
+Update date placeholder:
+YYYY-MM-DD
+
+Notes:
+This document exists to demonstrate the capstone RAG pipeline. It must be replaced or verified against an authorized source before the chatbot is used for actual student decisions.

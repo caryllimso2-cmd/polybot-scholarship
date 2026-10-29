@@ -1,0 +1,9 @@
+services:
+  polybot:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./chroma_db:/app/chroma_db
+    stdin_open: true
+    tty: true

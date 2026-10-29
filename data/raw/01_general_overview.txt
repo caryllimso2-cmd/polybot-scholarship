@@ -1,0 +1,15 @@
+# General Scholarship Program Overview
+
+Document status: SIMULATED/TEMPLATE — NOT AN OFFICIAL SCHOLARSHIP POLICY
+
+Purpose:
+This simulated document describes the type of information that should be stored for a general institutional scholarship. Replace with an official source before deployment.
+
+Source placeholder:
+Official scholarship office / authorized scholarship announcement
+
+Update date placeholder:
+YYYY-MM-DD
+
+Notes:
+This document exists to demonstrate the capstone RAG pipeline. It must be replaced or verified against an authorized source before the chatbot is used for actual student decisions.

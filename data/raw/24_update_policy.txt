@@ -1,0 +1,15 @@
+# Knowledge Base Update Policy
+
+Document status: SIMULATED/TEMPLATE — NOT AN OFFICIAL SCHOLARSHIP POLICY
+
+Purpose:
+This simulated document explains how scholarship records should be reviewed and updated when official information changes.
+
+Source placeholder:
+Official scholarship office / authorized scholarship announcement
+
+Update date placeholder:
+YYYY-MM-DD
+
+Notes:
+This document exists to demonstrate the capstone RAG pipeline. It must be replaced or verified against an authorized source before the chatbot is used for actual student decisions.

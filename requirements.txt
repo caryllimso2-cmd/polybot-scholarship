@@ -1,0 +1,12 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+sentence-transformers>=3.0
+chromadb>=0.5
+langchain>=0.3
+langchain-community>=0.3
+langchain-openai>=0.2
+python-dotenv>=1.0
+openai>=1.50
+tiktoken>=0.7
+streamlit>=1.35.0
