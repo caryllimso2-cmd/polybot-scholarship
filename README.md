@@ -6,7 +6,7 @@ An intelligent, grounded Retrieval-Augmented Generation (RAG) assistant designed
 
 ## 🌐 Live Web Application
 - **Deployed App Link**: [Insert your deployed Streamlit Community Cloud link here, e.g., `https://polybot-scholarship.streamlit.app`]
-- **Public GitHub Repository**: [Insert your public GitHub repo URL here]
+- **Public GitHub Repository**: [https://github.com/caryllimso2-cmd/polybot-scholarship](https://github.com/caryllimso2-cmd/polybot-scholarship)
 - **Demo Video (Google Drive / YouTube Unlisted)**: [Insert your demo video link here]
 
 *(Note: Open the live web app in any browser — no login or local installation required.)*
@@ -100,7 +100,7 @@ PolyBot's knowledge base comprises 25 curated scholarship records:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/polybot-scholarship.git
+git clone https://github.com/caryllimso2-cmd/polybot-scholarship.git
 cd polybot-scholarship
 ```
 

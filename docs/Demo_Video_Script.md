@@ -109,3 +109,4 @@
 1. Upload this video to **Google Drive** or **YouTube (Unlisted)**.
 2. In Google Drive: Right-click the video $\to$ **Share** $\to$ set General access to **"Anyone with the link (Viewer)"**.
 3. **Open the link in an Incognito / Private window** to make 100% sure it opens without requiring permission! (Avoid the -10 point automatic deduction).
+
